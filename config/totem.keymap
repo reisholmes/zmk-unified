@@ -125,7 +125,7 @@
             bindings = <
         &kp LEFT_BRACKET  &kp LEFT_BRACE  &trans  &trans   &trans         &trans     &trans  &trans  &kp RIGHT_BRACE    &kp RIGHT_BRACKET
         &kp GRAVE         &trans          &trans  &trans   &trans         &trans     &trans  &trans  &trans             &kp SINGLE_QUOTE
-&trans  &kp MINUS         &trans          &trans  &trans   &trans         &trans     &trans  &trans  &trans             &kp EQUAL       &kp trans
+&trans  &kp MINUS         &trans          &trans  &trans   &trans         &trans     &trans  &trans  &trans             &kp EQUAL       &trans
                                 &kp ESC    &kp TAB  &kp BACKSPACE  &kp SPACE  &kp DELETE    &trans
             >;
         };
