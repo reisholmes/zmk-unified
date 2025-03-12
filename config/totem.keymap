@@ -53,7 +53,7 @@
 
         combo_backslash {
             bindings = <&kp BACKSLASH>;
-            key-positions = <29 28>;
+            key-positions = <29 30>;
             timeout-ms = <50>;
         };
 
@@ -65,7 +65,7 @@
 
         combo_minus {
             bindings = <&kp MINUS>;
-            key-positions = <20 21>;
+            key-positions = <21 22>;
             timeout-ms = <50>;
         };
 
